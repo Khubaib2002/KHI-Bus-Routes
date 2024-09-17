@@ -13,14 +13,21 @@ class Explore extends StatefulWidget {
 class _Rscreen extends State<Explore>{
 
   List<Quote> quotes = [
-  Quote('Route 1', 'Bus 1', 'assets/image1en.png', 'assets/image1ur.png'),
-  Quote('Route 2', 'Bus 2', 'assets/7Star.png', 'assets/image1ur.png'),
-  Quote('Route 3', 'Bus 3', 'assets/16 Bus.png', 'assets/image1ur.png'),
-  Quote('Route 4', 'Bus 4', 'assets/Abdullah.png', 'assets/image1ur.png'),
-  Quote('Route 5', 'Bus 5', 'assets/D-11.png', 'assets/image1ur.png'),
-  Quote('Route 6', 'Bus 6', 'assets/G-27.png', 'assets/image1ur.png'),
-  Quote('Route 7', 'Bus 7', 'assets/Hassanzai.png', 'assets/image1ur.png'),
-  Quote('Route 8', 'Bus 8', 'assets/Mawrat.png', 'assets/image1ur.png'),
+  Quote('Route 1', 'G-11', 'assets/image1en.png', 'assets/image1ur.png'),
+  Quote('Route 2', '7 STAR', 'assets/7Star.png', 'assets/image1ur.png'),
+  Quote('Route 3', '16 BUS', 'assets/16 Bus.png', 'assets/image1ur.png'),
+  Quote('Route 4', 'ABDULLAH', 'assets/Abdullah.png', 'assets/image1ur.png'),
+  Quote('Route 5', 'D-11', 'assets/D-11.png', 'assets/image1ur.png'),
+  Quote('Route 6', 'HASSAN ZAI', 'assets/Hassanzai.png', 'assets/image1ur.png'),
+  Quote('Route 7', 'G-27' , 'assets/G-27.png', 'assets/image1ur.png'),
+  Quote('Route 8', 'MAWRAT', 'assets/Mawrat.png', 'assets/image1ur.png'),
+  Quote('Route 9', '11-C', 'assets/11C.png', 'assets/image1ur.png'),
+  Quote('Route 10', 'G-3', 'assets/G-3.png', 'assets/image1ur.png'),
+  Quote('Route 11', 'G-17', 'assets/G-17.png', 'assets/image1ur.png'),
+  Quote('Route 12', 'G-19', 'assets/G-19.png', 'assets/image1ur.png'),
+  Quote('Route 13', 'GULISTAN', 'assets/Gulistan.png', 'assets/image1ur.png'),
+  Quote('Route 14', 'MASOOD' , 'assets/Masood.png', 'assets/image1ur.png'),
+  Quote('Route 15', 'SHIRAZ', 'assets/Shiraz.png', 'assets/image1ur.png'),
 ];
 
   @override
